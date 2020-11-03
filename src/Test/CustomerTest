@@ -1,0 +1,16 @@
+package test;
+
+import domain.Customer;
+
+public class CustomerTest {
+
+    public static void main(String[] args){
+    
+        Customer c = new Customer();
+        c.setID(23);
+        c.setStatus(false);
+        c.setTotal(2113.34F);
+        c.displayCustomerInfo();
+
+    }
+}
