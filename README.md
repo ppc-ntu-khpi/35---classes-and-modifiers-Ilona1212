@@ -1,7 +1,7 @@
 Завдання 1
 =====
 ## Customer
-```
+```java
 package domain;
 
 public class Customer {
@@ -17,7 +17,7 @@ public class Customer {
 }
 ```
 ## CustomerTest
-```
+```java
 package test;
 
 import domain.Customer;
