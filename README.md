@@ -39,7 +39,7 @@ public class CustomerTest {
 Завдання 2
 =====
 ## Custome
-```
+```java
 package domain;
 
 public class Customer{
@@ -91,7 +91,7 @@ public class Customer{
 }
 ```
 ## CustomeTest
-```
+```java
 package test;
 
 import domain.Customer;
